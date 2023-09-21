@@ -11,7 +11,25 @@
   "hasSetupSection": false,
   "owner": "admin",
   "permissionsVersion": "V2",
-  "permissions": [],
+  "permissions": [
+    {
+      "group": "readers",
+      "admin": true,
+      "readProjectContent": false,
+      "writeProjectContent": true,
+      "exportDatasetsData": true,
+      "readDashboards": false,
+      "writeDashboards": false,
+      "moderateDashboards": false,
+      "publishToDataCollections": true,
+      "shareToWorkspaces": true,
+      "runScenarios": false,
+      "manageDashboardAuthorizations": false,
+      "manageExposedElements": false,
+      "manageAdditionalDashboardUsers": false,
+      "executeApp": false
+    }
+  ],
   "additionalDashboardUsers": {
     "users": []
   },
@@ -140,8 +158,7 @@
     },
     "dkuProperties": []
   },
-  "name": "Git first branch",
-  "projectStatus": "Sandbox",
+  "name": "Git first branch (second-branch)",
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -198,11 +215,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 4,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1695311100068,
+    "lastModifiedOn": 1695311136077,
     "extendedProperties": {}
   },
   "creationTag": {
@@ -213,8 +230,10 @@
     "lastModifiedOn": 1695310909370,
     "extendedProperties": {}
   },
-  "shortDesc": "The project *Git first branch* was created by Dimitri Labouesse on Sep 21st 2023",
-  "tags": [],
+  "shortDesc": "The project *Git first branch* was created by Dimitri Labouesse on Sep 21st 2023\nThe project *GIT_FIRST_BRANCH_SECOND_BRANCH* was copied from *GITFIRSTBRANCH* by Dimitri Labouesse on Sep 21st 2023",
+  "tags": [
+    "duplicated"
+  ],
   "customFields": {},
   "checklists": {
     "checklists": [
