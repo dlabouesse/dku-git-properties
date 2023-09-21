@@ -140,7 +140,6 @@
     "dkuProperties": []
   },
   "name": "Git first branch",
-  "projectStatus": "Sandbox",
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -196,6 +195,14 @@
       "checks": []
     }
   },
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "admin"
+    },
+    "lastModifiedOn": 1695310951678,
+    "extendedProperties": {}
+  },
   "creationTag": {
     "versionNumber": 0,
     "lastModifiedBy": {
@@ -205,7 +212,9 @@
     "extendedProperties": {}
   },
   "shortDesc": "The project *Git first branch* was created by Dimitri Labouesse on Sep 21st 2023",
-  "tags": [],
+  "tags": [
+    "duplicated"
+  ],
   "customFields": {},
   "checklists": {
     "checklists": [
