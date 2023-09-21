@@ -1,0 +1,36 @@
+{
+  "pages": [
+    {
+      "id": "qyIvh0O",
+      "grid": {
+        "tiles": []
+      },
+      "showTitle": false
+    }
+  ],
+  "owner": "admin",
+  "listed": true,
+  "name": "Git first branch\u0027s default dashboard",
+  "showGrid": true,
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "admin"
+    },
+    "lastModifiedOn": 1695310909424,
+    "extendedProperties": {}
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "admin"
+    },
+    "lastModifiedOn": 1695310909424,
+    "extendedProperties": {}
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
