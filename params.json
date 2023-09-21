@@ -139,7 +139,7 @@
     },
     "dkuProperties": []
   },
-  "name": "Git first branch",
+  "name": "Git first branch (second-branch)",
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -196,11 +196,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1695310951678,
+    "lastModifiedOn": 1695310954171,
     "extendedProperties": {}
   },
   "creationTag": {
@@ -211,7 +211,7 @@
     "lastModifiedOn": 1695310909370,
     "extendedProperties": {}
   },
-  "shortDesc": "The project *Git first branch* was created by Dimitri Labouesse on Sep 21st 2023",
+  "shortDesc": "The project *Git first branch* was created by Dimitri Labouesse on Sep 21st 2023\nThe project *GIT_FIRST_BRANCH_SECOND_BRANCH* was copied from *GITFIRSTBRANCH* by Dimitri Labouesse on Sep 21st 2023",
   "tags": [
     "duplicated"
   ],
